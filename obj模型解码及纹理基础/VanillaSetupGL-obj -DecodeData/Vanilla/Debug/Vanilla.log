@@ -1,0 +1,13 @@
+﻿  objmodel.cpp
+  main.cpp
+  utils.cpp
+  texture.cpp
+  正在生成代码...
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj -DecodeData\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj -DecodeData\Debug\Vanilla.pdb (Full PDB)
+  Microsoft (R) COFF/PE Editor Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj”
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: 命令“editbin/subsystem:console C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj -DecodeData\Debug\Vanilla.exe
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd”已退出，代码为 1104。

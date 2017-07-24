@@ -1,0 +1,4 @@
+﻿  main.cpp
+  LINK : 没有找到 C:\Users\Administrator\Desktop\openGL\2DUi\VanillaSetupGL-CatureScreen\Debug\Vanilla.exe 或上一个增量链接没有生成它；正在执行完全链接
+main.obj : error LNK2019: 无法解析的外部符号 "unsigned int __cdecl CaptureScreen(int,int,class std::function<void __cdecl(void)>)" (?CaptureScreen@@YAIHHV?$function@$$A6AXXZ@std@@@Z)，该符号在函数 _WinMain@16 中被引用
+C:\Users\Administrator\Desktop\openGL\2DUi\VanillaSetupGL-CatureScreen\Debug\Vanilla.exe : fatal error LNK1120: 1 个无法解析的外部命令

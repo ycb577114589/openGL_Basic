@@ -1,0 +1,19 @@
+﻿  vector3f.cpp
+  skybox.cpp
+  objmodel.cpp
+  main.cpp
+  camera.cpp
+  vertexData.cpp
+  utils.cpp
+  texture.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\Vanilla.exe 或上一个增量链接没有生成它；正在执行完全链接
+soil.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(image_DXT.obj)”或在“C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(image_helper.obj)”或在“C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(SOIL.obj)”或在“C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+soil.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“soil.lib(stb_image_aug.obj)”或在“C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\摄像机及纹理库\VanillaSetupGL-skyboxFromScratch2\Debug\Vanilla.pdb (Full PDB)
+  Microsoft (R) COFF/PE Editor Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  

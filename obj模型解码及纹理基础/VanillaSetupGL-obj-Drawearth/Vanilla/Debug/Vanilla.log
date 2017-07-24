@@ -1,0 +1,8 @@
+﻿  objmodel.cpp
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-drawearth\vanilla\objmodel.cpp(140): warning C4305: “+=”: 从“double”到“float”截断
+  LINK : 没有找到 C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-Drawearth\Debug\Vanilla.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-Drawearth\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-Drawearth\Debug\Vanilla.pdb (Full PDB)
+  Microsoft (R) COFF/PE Editor Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  

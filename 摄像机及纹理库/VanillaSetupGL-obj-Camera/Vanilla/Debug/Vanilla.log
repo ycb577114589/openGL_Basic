@@ -1,0 +1,7 @@
+﻿  objmodel.cpp
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-camera\vanilla\objmodel.cpp(140): warning C4305: “+=”: 从“double”到“float”截断
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-Camera\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-Camera\Debug\Vanilla.pdb (Full PDB)
+  Microsoft (R) COFF/PE Editor Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  

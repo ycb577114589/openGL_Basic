@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\desktop\opengl\vanilla\vanilla\main.cpp(65): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\Vanilla\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\Vanilla\Debug\Vanilla.pdb (Full PDB)

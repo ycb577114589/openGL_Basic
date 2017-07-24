@@ -1,0 +1,16 @@
+﻿  vector3f.cpp
+  objmodel.cpp
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(94): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(114): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(114): note: 请考虑在格式字符串中使用“%zu”
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(114): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(114): note: 请考虑在格式字符串中使用“%zu”
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\objmodel.cpp(140): warning C4305: “+=”: 从“double”到“float”截断
+  main.cpp
+c:\users\administrator\desktop\opengl\vanillasetupgl-obj-cameramove\vanilla\main.cpp(12): warning C4081: 应输入“newline”；找到“;”
+  camera.cpp
+  vertexData.cpp
+  texture.cpp
+  正在生成代码...
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-CameraMove\x64\Debug\Vanilla.exe
+  Vanilla.vcxproj -> C:\Users\Administrator\Desktop\openGL\VanillaSetupGL-obj-CameraMove\x64\Debug\Vanilla.pdb (Full PDB)
